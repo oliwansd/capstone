@@ -3,15 +3,18 @@ This is my capstone project for M.S in Applied Data Science Program at the Unive
 -- Project Status: [ Completed]
 Installation
 Only non standard libraries are google earth engine, see the "undisturbed forest class downloader" for more information
+To skip straight to the modeling you can download the cleaned, prepared dataset here https://drive.google.com/drive/folders/1pxGrQHesxhE5h0CbXHdRc7ZKIFx_hfqj?usp=drive_link
+
+
 Project Intro/Objective
 
 This project demonstrates how even lightweight deep learning models can 
 learn useful patterns for classifying satellite images. My tuned version of mobilenetv3 achieved .86 macro average F1 over 5 classes
 
-Partner(s)/Contributor(s)
+
 
 Methods Used
-A few examples are:
+
 
 • Data Mining
 • Computer Vision
@@ -27,6 +30,7 @@ A few examples are:
 • Google Earth Engine
 
 Project Description
+
 This project is in response to this paper https://doi.org/10.1038/s41597-024-03384-z
 by Amadine Debus & co from cambridge university which published a labeled dataset containing
 satellite imagery for deforestation drivers in the African rainforest. Through data cleaning, feature engineering, additional data mining to
