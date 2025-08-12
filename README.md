@@ -1,8 +1,14 @@
 Classifying deforestation drivers in the African rainforest using computer vision
 This is my capstone project for M.S in Applied Data Science Program at the University of San Diego.
+
+
+
+
 -- Project Status: [ Completed]
+
+
 Installation
-Only non standard libraries are google earth engine, see the "undisturbed forest class downloader" for more information
+The only non standard libraries are google earth engine, see the "undisturbed forest class downloader" notebook for more information
 To skip straight to the modeling you can download the cleaned, prepared dataset here https://drive.google.com/drive/folders/1pxGrQHesxhE5h0CbXHdRc7ZKIFx_hfqj?usp=drive_link
 
 
